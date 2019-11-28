@@ -1,0 +1,13 @@
+[http]
+port = 6000
+
+[pg]
+user = "postgres"
+host = "10.8.8.111"
+pass = "Yangcong345"
+port = 5666
+database = "event_tracking"
+
+[queries]
+location = "sql_tem"
+

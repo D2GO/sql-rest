@@ -1,0 +1,1 @@
+SELECT * FROM public.pointpool WHERE pointid = '{{field1}}' AND version = {{field2}};
