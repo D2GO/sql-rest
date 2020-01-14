@@ -41,7 +41,7 @@ POOL_RECYCLE = -1  # 多久之后对线程池中的线程进行一次连接的�
 
 ## 启动服务：
 
-`python3 manage.py start_serve`
+`python3 start_serve.py`
 
 ## .sql模版文件：（例）
 
