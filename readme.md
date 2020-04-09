@@ -1,9 +1,9 @@
 ##依赖包：
 -  sqlalchemy
-1. configparser
-2. flask_restful
-3. flask
-4. json
+-  configparser
+-  flask_restful
+-  flask
+-  json
 
 
 ## 配置文件：（例）
